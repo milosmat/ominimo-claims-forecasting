@@ -1,0 +1,11 @@
+{
+  "model__subsample": 0.9,
+  "model__reg_lambda": 1.0,
+  "model__reg_alpha": 2.0,
+  "model__n_estimators": 500,
+  "model__min_child_weight": 3,
+  "model__max_depth": 8,
+  "model__learning_rate": 0.065,
+  "model__gamma": 0.2,
+  "model__colsample_bytree": 0.65
+}

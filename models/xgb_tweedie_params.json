@@ -1,0 +1,12 @@
+{
+  "model__tweedie_variance_power": 1.3,
+  "model__subsample": 0.8,
+  "model__reg_lambda": 10.0,
+  "model__reg_alpha": 0.0,
+  "model__n_estimators": 500,
+  "model__min_child_weight": 3,
+  "model__max_depth": 6,
+  "model__learning_rate": 0.05,
+  "model__gamma": 0.0,
+  "model__colsample_bytree": 0.7
+}
