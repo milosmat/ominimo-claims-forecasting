@@ -31,6 +31,8 @@ The repository is organised around four main notebooks:
 
 ## How to run
 
+Tested with Python 3.13.7 (Python 3.11+ should also work).
+
 1. Place the original benchmark file `freMTPL2freq.csv` in the `data/` folder.
 2. Create and activate a virtual environment (optional but recommended), then install dependencies:
 
